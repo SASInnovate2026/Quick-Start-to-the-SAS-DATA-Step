@@ -16,6 +16,8 @@ Files Used in the Demo(s)
 ## Presenter Contact Information
 Kristin.Snyder@sas.com
 
+https://www.linkedin.com/in/kristindsnyder/
+
 ## Important Information
 
 This site provides the collateral for a specific SAS Innovate 2026 session provided by SAS Education.  The instructions in these pages are specific to the workshop and should not be considered a replacement for the official [SAS Documentation](http://documentation.sas.com).  Some parts of these instructions will only work correctly in the Lab environments provided by SAS Education.
